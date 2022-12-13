@@ -1,5 +1,5 @@
-#include "sum_array.h"
-#include "insertion_sort.h"
+#include "sum_array.hh"
+#include "insertion_sort.hh"
 using namespace std;
 
 int main()
